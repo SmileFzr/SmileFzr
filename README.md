@@ -113,7 +113,7 @@
 
 ## 📟 极客终端 | Terminal Status
 
----ascii
+## ascii
 _________________________________________
 /                                         \
 |   Username: SmileFzr                     |
