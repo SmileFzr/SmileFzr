@@ -111,26 +111,6 @@
 
 ---
 
-## 📟 极客终端 | Terminal Status
-
-、、、ascii
-_________________________________________
-/                                         \
-|   Username: SmileFzr                     |
-|   Role: AI Enthusiast / Tech Hobbyist    |
-|   Mode: Dark Tech & Neon Vibes           |
-|   Status: Looking for next big thing...  |
-\_________________________________________/
-         \
-          \
-           \          __---__
-                    /       \
-                   | (0) (0) |
-                   |    V    |
-                    \  ---  /
-                     |[XXX]|
-
-
 ### 📊 实时监测 | Stats
 
 | 💾 GitHub Stats | 🚀 Top Languages |
@@ -139,9 +119,29 @@ _________________________________________
 
 ## 📡 访客踪迹 | Visitor Radar
 
-> 本页面由 Gemini AI 协助构建，注入了 100% 的赛博灵魂。
-> 
+---
+
+### 📟 极客终端 | Terminal Status
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/SmileFzr/SmileFzr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
+```
+ _______________________________________
+/                                       \
+|  User: SmileFzr                       |
+|  Role: AI Explorer / Tech Hobbyist    |
+|  Mode: Dark Tech & Neon Vibes         |
+\_______________________________________/
+         \
+          \          __---__
+                   /       \
+                  | (0) (0) |
+                  |    V    |
+                   \  ---  /
+                    |[XXX]|
+
+> 本页面由 Gemini AI 协助构建，注入了 100% 的赛博灵魂。
+
 
