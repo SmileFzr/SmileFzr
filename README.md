@@ -141,6 +141,7 @@ _________________________________________
 
 > 本页面由 Gemini AI 协助构建，注入了 100% 的赛博灵魂。
 > 
-​<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/SmileFzr/SmileFzr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SmileFzr/SmileFzr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
