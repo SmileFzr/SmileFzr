@@ -1,2 +1,2 @@
-一起学习交流可以加飞机频道[@jerrybalabala](t.me/jerrybalabala)
+一起学习交流可以加飞机频道[@jerrybalabala](https://t.me/jerrybalabala)
 <div align="center">
